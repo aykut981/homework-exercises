@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="car" fuel="gasoline">
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <wheels>4</wheels>
+        <capacity>5</capacity>
+    </vehicle>
+    <vehicle type="bike" fuel="none">
+        <brand>Cube</brand>
+        <model>Aim Pro</model>
+        <wheels>2</wheels>
+        <capacity>1</capacity>
+    </vehicle>
+    <vehicle type="bus" fuel="diesel">
+        <brand>Mercedes</brand>
+        <model>Citaro</model>
+        <wheels>6</wheels>
+        <capacity>50</capacity>
+    </vehicle>
+</transport>

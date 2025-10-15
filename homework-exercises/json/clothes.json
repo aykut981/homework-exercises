@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "name": "Nike",
+      "country": "USA"
+    },
+    {
+      "name": "Adidas",
+      "country": "Germany"
+    },
+    {
+      "name": "Zara",
+      "country": "Spain"
+    },
+    {
+      "name": "H&M",
+      "country": "Sweden"
+    },
+    {
+      "name": "Uniqlo",
+      "country": "Japan"
+    },
+    {
+      "name": "Puma",
+      "country": "Germany"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <from>aykut@example.com</from>
+    <to>teacher@example.com</to>
+    <subject>Homework submission</subject>
+    <body>Here is my XML assignment. Regards.</body>
+</email>

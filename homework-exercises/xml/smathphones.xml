@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <phone brand="Apple" model="iPhone 14" os="iOS">
+        <screen>6.1 inch</screen>
+        <storage>128 GB</storage>
+        <camera>12 MP</camera>
+    </phone>
+    <phone brand="Samsung" model="Galaxy S23" os="Android">
+        <screen>6.1 inch</screen>
+        <storage>256 GB</storage>
+        <camera>50 MP</camera>
+    </phone>
+    <!-- kendi telefonunu istiyorsan bu bloğu markana/modeline göre düzenle -->
+    <phone brand="Xiaomi" model="Redmi Note 12" os="Android">
+        <screen>6.67 inch</screen>
+        <storage>128 GB</storage>
+        <camera>48 MP</camera>
+    </phone>
+</smartphones>

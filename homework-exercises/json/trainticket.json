@@ -1,0 +1,14 @@
+{
+  "operator": "PKP Intercity",
+  "trainNumber": "IC612",
+  "from": "Warsaw Central",
+  "to": "Krakow Glowny",
+  "date": "2025-10-16",
+  "departureTime": "10:15",
+  "arrivalTime": "12:47",
+  "coach": "2",
+  "seat": "12A",
+  "price": 129.9,
+  "currency": "PLN",
+  "isReturnTicket": false
+}

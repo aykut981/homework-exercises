@@ -1,0 +1,46 @@
+{
+  "planets": [
+    {
+      "name": "Mercury",
+      "orderFromSun": 1,
+      "hasRings": false
+    },
+    {
+      "name": "Venus",
+      "orderFromSun": 2,
+      "hasRings": false
+    },
+    {
+      "name": "Earth",
+      "orderFromSun": 3,
+      "hasRings": false,
+      "moons": 1
+    },
+    {
+      "name": "Mars",
+      "orderFromSun": 4,
+      "hasRings": false,
+      "moons": 2
+    },
+    {
+      "name": "Jupiter",
+      "orderFromSun": 5,
+      "hasRings": true
+    },
+    {
+      "name": "Saturn",
+      "orderFromSun": 6,
+      "hasRings": true
+    },
+    {
+      "name": "Uranus",
+      "orderFromSun": 7,
+      "hasRings": true
+    },
+    {
+      "name": "Neptune",
+      "orderFromSun": 8,
+      "hasRings": true
+    }
+  ]
+}
